@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none"
+     stroke="#c8a35b" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <!-- antennae with clubbed tips -->
+  <path d="M13.6 6.2 Q12.2 3.6 10.9 3" opacity="0.85"/>
+  <path d="M18.4 6.2 Q19.8 3.6 21.1 3" opacity="0.85"/>
+  <circle cx="10.7" cy="2.9" r="1" fill="#c8a35b" stroke="none"/>
+  <circle cx="21.3" cy="2.9" r="1" fill="#c8a35b" stroke="none"/>
+  <!-- wings -->
+  <path d="M13.9 11.8 C9.2 10.4 5.2 11.8 3.9 14.6 C6.4 15.9 10.8 15.7 14 13.9" opacity="0.8"/>
+  <path d="M18.1 11.8 C22.8 10.4 26.8 11.8 28.1 14.6 C25.6 15.9 21.2 15.7 18 13.9" opacity="0.8"/>
+  <!-- head + thorax + waist + abdomen -->
+  <path d="M16 5.1 c2.4 0 3.6 1.8 3.6 3.5 c0 1.3 -0.7 2.2 -1.2 3
+           c1.2 1 1.9 2.5 1.9 4.2 c0 2.1 -0.8 3.9 -1.7 5.3
+           c-0.8 1.2 -1.6 3.1 -2.6 5.7 c-1 -2.6 -1.8 -4.5 -2.6 -5.7
+           c-0.9 -1.4 -1.7 -3.2 -1.7 -5.3 c0 -1.7 0.7 -3.2 1.9 -4.2
+           c-0.5 -0.8 -1.2 -1.7 -1.2 -3 c0 -1.7 1.2 -3.5 3.6 -3.5 z"/>
+  <!-- segment bands -->
+  <path d="M13.3 15.2 H18.7" opacity="0.7"/>
+  <path d="M13.6 19 H18.4" opacity="0.7"/>
+  <!-- sharp stinger -->
+  <path d="M16 26.4 l1.1 2.2 -1.1 1.1 -1.1 -1.1 z" fill="#c8a35b" stroke="none" opacity="0.9"/>
+</svg>
