@@ -5,8 +5,15 @@ matching investment funds to the institutional investors and programs they fit.
 Light, restrained, institutional design — warm cream paper, deep navy ink, and a
 line-drawn spotted eagle ray as the firm's mark.
 
+## Changelog
+- **2026-07-16** — Simplified the home page down to just the hero/landing section and the footer.
+  Removed the thesis, 90%+ rejection-stat callout, "who we serve" grid, 3-step process, and
+  principals band from `index.html`. Nothing was deleted from the site — that content already
+  lives on its own dedicated pages (The Model, For Funds, Engagement, Principals); home is now a
+  clean landing page pointing into the rest of the site.
+
 ## Pages
-- `index.html` — Home (hero + eagle ray, the thesis, the >90% selectivity statistic, who we serve, the 3-step process, principals band)
+- `index.html` — Home (hero + eagle ray only, plus footer)
 - `model.html` — The Model (screening approach, >90% rejection, individualized output, end-to-end flow)
 - `for-funds.html` — For Funds (audience, the two match modes, fit criteria)
 - `engagement.html` — Engagement (the report deliverable, what's inside, the process timeline)
